@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "spspring.datasource",
+    "type": "java.lang.String",
+    "description": "A description for 'spspring.datasource'"
+  },
+  {
+    "name": "sprine.dat",
+    "type": "java.lang.String",
+    "description": "A description for 'sprine.dat'"
+  }
+]}
